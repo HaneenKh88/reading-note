@@ -8,7 +8,7 @@ One | Learning Markdown | [Read 1](https://github.com/HaneenKh88/reading-note/bl
 Two | The Coder's Computer | [Read 2](https://github.com/HaneenKh88/reading-note/blob/main/Second-Read.md)
 Three | Revisions and the Cloud | [Read 3](https://github.com/HaneenKh88/reading-note/blob/main/Third-Read.md)
 Four | Structure web pages with HTML | [Read 4](https://github.com/HaneenKh88/reading-note/blob/main/Fourth-Read.md)
-Additional | Growth Mindset | [Addition] (https://github.com/HaneenKh88/reading-note/blob/main/README.md)
+Additional | Growth Mindset | [Addition] (https://github.com/HaneenKh88/reading-note/blob/main/Mindset.md)
 
 
 Haneen Khasawneh 
