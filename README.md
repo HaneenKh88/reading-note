@@ -2,7 +2,7 @@
 
 My name is Haneen Khasawneh from Irbid and I'm in 24 years, I love to develop my self and learning every thing new. 
 
-# Read Number | # Name | # File Link
+Read Number | Name | File Link
 ------------ | ------------- | -------------
 One | Learning Markdown | [Read 1](https://github.com/HaneenKh88/reading-note/blob/main/First-Read.md)
 Two | The Coder's Computer | [Read 2](https://github.com/HaneenKh88/reading-note/blob/main/Second-Read.md)
