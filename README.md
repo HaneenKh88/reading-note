@@ -24,7 +24,8 @@ Additional | Growth Mindset | [Add1](https://github.com/HaneenKh88/reading-note/
 
 Read Number | Name | File Link
 ------------ | ------------- | -------------
-One | Introductory Java Script and HTML | [Read 1](https://github.com/HaneenKh88/reading-note/blob/main/Read%201) 
+One | Introductory Java Script and HTML | [Read 1](https://github.com/HaneenKh88/reading-note/blob/main/Read1.md) 
+Two | HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Read 2](https://github.com/HaneenKh88/reading-note/blob/main/Read2.md)
 
 * Haneen Khasawneh 
 * 0775687515
