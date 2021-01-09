@@ -26,6 +26,11 @@ Read Number | Name | File Link
 ------------ | ------------- | -------------
 One | Introductory Java Script and HTML | [Read 1](https://github.com/HaneenKh88/reading-note/blob/main/Read1.md) 
 Two | HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Read 2](https://github.com/HaneenKh88/reading-note/blob/main/Read2.md)
+three | HTML Lists, CSS Boxes, JS Control Flow | [Read 3](https://github.com/HaneenKh88/reading-note/blob/main/Read3.md)
+four | HTML Links, CSS Layout, JS Functions | [Read 4](https://github.com/HaneenKh88/reading-note/blob/main/Read4.md)
+five | HTML Images; CSS Color & Text | [Read 5](https://github.com/HaneenKh88/reading-note/blob/main/Read5.md)
+six | JS Object Literals, The DOM | [Read 6](https://github.com/HaneenKh88/reading-note/blob/main/Read6.md)
+
 
 * Haneen Khasawneh 
 * 0775687515
