@@ -30,6 +30,13 @@ three | HTML Lists, CSS Boxes, JS Control Flow | [Read 3](https://github.com/Han
 four | HTML Links, CSS Layout, JS Functions | [Read 4](https://github.com/HaneenKh88/reading-note/blob/main/Read4.md)
 five | HTML Images; CSS Color & Text | [Read 5](https://github.com/HaneenKh88/reading-note/blob/main/Read5.md)
 six | JS Object Literals, The DOM | [Read 6](https://github.com/HaneenKh88/reading-note/blob/main/Read6.md)
+seven | Object-Oriented Programming, HTML Tables | [Read 7](https://github.com/HaneenKh88/reading-note/blob/main/Read7)
+Eight | CSS Layout | [Read 8](https://github.com/HaneenKh88/reading-note/blob/main/Read8)
+Nine | Forms and JS Events | [Read 9](https://github.com/HaneenKh88/reading-note/blob/main/Read9)
+Ten | JS Debugging | [Read 10](https://github.com/HaneenKh88/reading-note/blob/main/Read10)
+Eleven | Audio, Video, Images | [Read 11](https://github.com/HaneenKh88/reading-note/blob/main/Read11)
+
+
 
 
 * Haneen Khasawneh 
