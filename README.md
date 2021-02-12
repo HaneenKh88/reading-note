@@ -3,7 +3,7 @@
 *My name is **Haneen Khasawneh** from Irbid and I'm in 24 years, I love to develop my self and learning every thing new*
 
 
->Code 102 Reading Notes:
+> Code 102 - Intro to Software Development:
 
 Read Number | Name | File Link
 ------------ | ------------- | -------------
@@ -20,7 +20,7 @@ Additional | Growth Mindset | [Add1](https://github.com/HaneenKh88/reading-note/
 
 *************************************************
 
-> Code 201 Reading Notes: 
+> Code 201 - Foundations of Software Development: 
 
 Read Number | Name | File Link
 ------------ | ------------- | -------------
@@ -36,7 +36,13 @@ Nine | Forms and JS Events | [Read 9](https://github.com/HaneenKh88/reading-note
 Ten | JS Debugging | [Read 10](https://github.com/HaneenKh88/reading-note/blob/main/Read10)
 Eleven | Audio, Video, Images | [Read 11](https://github.com/HaneenKh88/reading-note/blob/main/Read11)
 
+*****************************************************
 
+> Code 301 - Intermediate Software Development:
+
+Read Number | Name | File Link
+------------ | ------------- | -------------
+One |  | 
 
 
 * Haneen Khasawneh 
