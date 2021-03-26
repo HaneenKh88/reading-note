@@ -58,6 +58,14 @@ thirteen |  [Read 13](https://github.com/HaneenKh88/reading-note/blob/main/301Re
 fourteen |  [Read 14](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
 fifteen |  [Read 15](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
 
+*****************************************************
+
+> Code 401 - Advanced Software Development in Full-Stack JavaScript:
+
+Read Number | File Link
+------------ | -------------
+one |  [Read 1](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
+
 
 * Haneen Khasawneh 
 * 0775687515
