@@ -40,9 +40,23 @@ Eleven | Audio, Video, Images | [Read 11](https://github.com/HaneenKh88/reading-
 
 > Code 301 - Intermediate Software Development:
 
-Read Number | Name | File Link
------------- | ------------- | -------------
-One |  | 
+Read Number | File Link
+------------ | -------------
+one |  [Read 1](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
+two |  [Read 2](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
+three |  [Read 3](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
+four |  [Read 4](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
+five |  [Read 5](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
+six |  [Read 6](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
+seven |  [Read 7](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
+eight |  [Read 8](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
+nine |  [Read 9](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
+ten |  [Read 10](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
+eleven |  [Read 11](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
+tweleve |  [Read 12](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
+thirteen |  [Read 13](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
+fourteen |  [Read 14](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
+fifteen |  [Read 15](https://github.com/HaneenKh88/reading-note/blob/main/301Read1.md)
 
 
 * Haneen Khasawneh 
