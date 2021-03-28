@@ -65,7 +65,7 @@ fifteen |  [Read 15](https://github.com/HaneenKh88/reading-note/blob/main/301Rea
 Read Number | File Link
 ------------ | -------------
 one |  [Read 1](https://github.com/HaneenKh88/reading-note/blob/main/401Read1.md)
-one |  [Read 2](https://github.com/HaneenKh88/reading-note/blob/main/401Read2.md)
+two |  [Read 2](https://github.com/HaneenKh88/reading-note/blob/main/401Read2.md)
 
 
 
